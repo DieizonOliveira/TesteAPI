@@ -67,7 +67,7 @@ Gerenciador de pacotes npm ou yarn
 
 Navegue até a pasta do frontend:
 
-cd frontend
+cd busca-operadora
 
 Instale as dependências:
 
