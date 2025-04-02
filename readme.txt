@@ -77,7 +77,7 @@ Inicie o servidor de desenvolvimento:
 
 npm run serv
 
-O frontend será iniciado em http://localhost:5173/
+O frontend será iniciado em http://localhost:8080/
 
 🚀 Uso do Sistema
 
